@@ -1,4 +1,4 @@
-//@rpp33 - cat leaks: https://t.me/catleaks
+//@FinixDev - SBD Team
 #include <time.h>
 
 #include <pthread.h>
